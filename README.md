@@ -1,7 +1,3 @@
-# Pa6
-- Aniket Pratap 
-- anpratap
-
 ## Files
 - List.cpp
 - List.h
@@ -20,9 +16,6 @@ Use ./Arithmetic input.txt output.txt to run
 
 ## Error Handling
 The program checks if the user inputted 3 arguments in the terminal. If there is a problem opening the file, print out an error
-
-## Valgrind
-Gives no leaks
 
 
 

@@ -1,7 +1,4 @@
 /********************************************************************************* 
-* Aniket Pratap, anpratap
-* 2022 Spring CSE101 PA6
-* List.cpp
 * List ADT for BigInteger.cpp
 *********************************************************************************/
 
@@ -9,8 +6,6 @@
 #include<iostream>
 #include<stdexcept>
 #include"List.h"
-
-// Private constructor
 
 // Node constructor 
 List::Node::Node(ListElement x) {
